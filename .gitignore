@@ -1,0 +1,8 @@
+# Ignore all contents except .gitkeep from data_records
+data_records/*
+!data_records/.gitkeep
+
+# Ignore all contents except .gitkeep from output
+output/*
+!output/.gitkeep
+/src/docs/
